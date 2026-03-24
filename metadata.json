@@ -1,0 +1,5 @@
+{
+  "name": "Ricardo - Sophie's Voice Assistant",
+  "description": "A Milanese-accented voice assistant powered by Gemini Live API to answer questions about Sophie Higander.",
+  "requestFramePermissions": ["microphone"]
+}
